@@ -84,7 +84,7 @@ const loadTasks = () => {
         taskArray.forEach(taskText => addTask(taskText));
     }
 };
-
+//Adding a comment for the repo just to mess around.
 // 5. STARTUP
 loadTasks();
 updateCounter();
